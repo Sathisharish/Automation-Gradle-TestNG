@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T10:11:37 IST" name="Default suite" finished-at="2022-02-15T10:21:32 IST" duration-ms="594028">
+    <groups>
+      <group name="dresses">
+        <method signature="TestNgRunner.women()[pri:-1, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" name="women" class="com.TestNG_RunnerClass.TestNgRunner"/>
+        <method signature="TestNgRunner.dresses()[pri:3, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" name="dresses" class="com.TestNG_RunnerClass.TestNgRunner"/>
+      </group> <!-- dresses -->
+      <group name="Tops">
+        <method signature="TestNgRunner.blouses()[pri:7, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" name="blouses" class="com.TestNG_RunnerClass.TestNgRunner"/>
+      </group> <!-- Tops -->
+    </groups>
+    <test started-at="2022-02-15T10:11:37 IST" name="Default test" finished-at="2022-02-15T10:21:32 IST" duration-ms="594028">
+      <class name="com.TestNG_RunnerClass.TestNgRunner">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:11:38 IST" name="browserLaunch" finished-at="2022-02-15T10:11:41 IST" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:11:41 IST" name="urlLaunch" finished-at="2022-02-15T10:11:50 IST" duration-ms="8936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:11:50 IST" name="signIn" finished-at="2022-02-15T10:12:11 IST" duration-ms="21408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="women()[pri:-1, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:12:11 IST" name="women" finished-at="2022-02-15T10:15:11 IST" duration-ms="179752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:15:11 IST" name="signOut" finished-at="2022-02-15T10:15:14 IST" duration-ms="3214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:15:14 IST" name="signIn" finished-at="2022-02-15T10:15:33 IST" duration-ms="18572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="dresses()[pri:3, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:15:33 IST" name="dresses" finished-at="2022-02-15T10:16:40 IST" duration-ms="67475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:16:40 IST" name="signOut" finished-at="2022-02-15T10:16:44 IST" duration-ms="3987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:16:44 IST" name="signIn" finished-at="2022-02-15T10:17:03 IST" duration-ms="18738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="blouses()[pri:7, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:17:03 IST" name="blouses" finished-at="2022-02-15T10:18:14 IST" duration-ms="71178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blouses -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:18:14 IST" name="signOut" finished-at="2022-02-15T10:18:18 IST" duration-ms="3928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:18:18 IST" name="signIn" finished-at="2022-02-15T10:18:37 IST" duration-ms="18946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="blouses()[pri:7, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:18:37 IST" name="blouses" finished-at="2022-02-15T10:19:45 IST" duration-ms="68035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blouses -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:19:45 IST" name="signOut" finished-at="2022-02-15T10:19:49 IST" duration-ms="3867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:19:49 IST" name="signIn" finished-at="2022-02-15T10:20:09 IST" duration-ms="19883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="womenTshirt()[pri:2, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:20:09 IST" name="womenTshirt" finished-at="2022-02-15T10:21:25 IST" depends-on-methods="com.TestNG_RunnerClass.TestNgRunner.blouses" duration-ms="76269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenTshirt -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:21:25 IST" name="signOut" finished-at="2022-02-15T10:21:30 IST" duration-ms="4541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="logOutValidate()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:21:30 IST" name="logOutValidate" finished-at="2022-02-15T10:21:30 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutValidate -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.TestNG_RunnerClass.TestNgRunner@201a4587]" started-at="2022-02-15T10:21:30 IST" name="browserClose" finished-at="2022-02-15T10:21:32 IST" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.TestNG_RunnerClass.TestNgRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
